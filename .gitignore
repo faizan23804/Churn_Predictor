@@ -210,3 +210,4 @@ Artifacts/
 final_model/
 .dockerignore
 *.pkl
+*.keras
