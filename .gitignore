@@ -209,6 +209,4 @@ __marimo__/
 Artifacts/
 final_model/
 .dockerignore
-*.pkl
-*.keras
-logs\fit
+logs\fit/
