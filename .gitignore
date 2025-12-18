@@ -211,3 +211,4 @@ final_model/
 .dockerignore
 *.pkl
 *.keras
+logs\fit
